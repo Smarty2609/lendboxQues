@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import {useState} from "react";
 
 const useComponentObserver = () =>{
     const [enableScroll, setEnableScroll] = useState(false);

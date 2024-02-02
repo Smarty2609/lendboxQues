@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef } from 'react';
 import {handleCustomWheel} from "../../utils/customScroll";
 import useComponentObserver from '../../customHooks/useComponentObserver';
 
